@@ -1,2 +1,2 @@
 print("Bye")
-print("nlp")
+print("yes nlp")
